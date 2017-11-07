@@ -13,3 +13,5 @@ my Email is haoxiaolonga@gmail.com
 test git add  or git commit  first  git  init   mkdir 路径文件夹  -->git init  pwd -> cd 路径 -> new a txt ->git add txt ->git commit -m"注释"  
 
 --> git add is exists --> git  commit -m“注释”  ==update(pom three)
+
+four : git log (show commit log)    git log --pretty=online (show commit  one online) 
