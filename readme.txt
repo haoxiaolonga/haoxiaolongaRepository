@@ -9,3 +9,7 @@ my Email is haoxiaolonga@gmail.com
 第一步，使用命令git add <file>，注意，可反复多次使用，添加多个文件；
 
 第二步，使用命令git commit，完成。
+
+test git add  or git commit  first  git  init   mkdir 路径文件夹  -->git init  pwd -> cd 路径 -> new a txt ->git add txt ->git commit -m"注释"  
+
+--> git add is exists --> git  commit -m“注释”  ==update(pom three)
