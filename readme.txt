@@ -22,4 +22,6 @@ five：HEAD指向当前版本 -->使用命令git reset --hard commit_id(指定�
 	-->用git log可以查看提交历史（回滚）。要重返未来，用git reflog查看命令历史（中间往最新版本跳）。
 six: this is a word for test funcction   git status 显示暂存区状态  git add （make file move to 暂存区） git commit (暂存区到分支)
 
-seven :now this is test ，now this is  a  other test
+seven :now this is test ，now this is  a  other test，git this aaaaa test(git add 修改后需要再git add 提交时从add 到的暂存区提交的，而不是当前工作区)
+·
+··	git diff head -- <filename> 用git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别
