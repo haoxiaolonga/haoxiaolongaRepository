@@ -1,1 +1,2 @@
 two_one:test a function 
+eight : git checkout -- readme.txt获取最近一次add或者commit时的版本

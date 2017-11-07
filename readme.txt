@@ -25,3 +25,7 @@ six: this is a word for test funcction   git status 显示暂存区状态  git a
 seven :now this is test ，now this is  a  other test，git this aaaaa test(git add 修改后需要再git add 提交时从add 到的暂存区提交的，而不是当前工作区)
 ·
 ··	git diff head -- <filename> 用git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别
+
+eight : git checkout -- readme.txt获取最近一次add或者commit时的版本，
+		（git reset head filename 讲其从暂存区提出，回到工作区，再用git checkout -- filename回到最初）
+		（如果是已经提交到库git reset --hard commit_id 回滚到某个版本 ）
