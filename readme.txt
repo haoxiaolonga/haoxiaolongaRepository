@@ -29,3 +29,5 @@ seven :now this is test ，now this is  a  other test，git this aaaaa test(git 
 eight : git checkout -- readme.txt获取最近一次add或者commit时的版本，
 		（git reset head filename 讲其从暂存区提出，回到工作区，再用git checkout -- filename回到最初）
 		（如果是已经提交到库git reset --hard commit_id 回滚到某个版本 ）
+
+nine :rm filename 删除工作区文件 git rm filename 删除文件提交至暂存区 git commit -m"提交至仓库"
