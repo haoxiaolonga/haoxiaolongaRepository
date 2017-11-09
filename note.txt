@@ -3,3 +3,4 @@
 解决方法、:1.可以通过以下命令解决上面的错误【注：pull=fetch+merge】
 			git pull --rebase origin master
 			2:再执行语句 git push -u origin master即可完成代码上传到github
+test gui
