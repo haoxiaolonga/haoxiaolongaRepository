@@ -39,3 +39,8 @@ ten: 	git 要关联一个远程库，使用命令git remote add origin git@serve
 		此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
 		
 eleven:  git checkout -b newgit(分支名字)
+
+
+
+
+twelve： deal merge this is Two
