@@ -42,5 +42,5 @@ eleven:  git checkout -b newgit(分支名字)=git branch newgit +git checkout ne
 			git branch  --显示所有分支   git merge newgit (合并分支到当前分支)
 			git branch -d  newgit (删除分支)		
 			
-twelve： deal merge this is one(合并后)
+twelve： deal merge this is one(合并后)   git log --graph 显示分支合并图 git add -- git commit -- git merge 分支  (合并分支到当前)
  
